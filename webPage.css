@@ -1,0 +1,130 @@
+body{
+  background-color:powderBlue;
+  font-size: 24px;
+  margin: 0;
+  padding: 0;
+  /*background-image:url("table-mountain.jpg");*/
+
+}
+
+
+img{
+align-items:right;
+height:300px;
+width:400px;
+ border: 3px solid green;
+ margin: auto 5px;
+border-radius: 100%;
+
+}
+.tmImg{
+  width: 48%;
+  float:left;
+  margin-right: 50%;
+
+}
+.section1{
+  margin-bottom:20em;
+  padding-left: 10%;
+  margin-top:5em;
+
+
+
+}
+.section2{
+  margin-bottom:5em;
+  margin-top:5em;
+
+}
+.section3{
+  margin-bottom:2em;
+  margin-top:2em;
+  float: left;
+}
+
+
+h1.names{
+  font-size:34px;
+  margin-left: 50%;
+  float:left;
+  width: 48%;
+
+}
+
+ul.indianInterests{
+  float: right;
+  width: 50%;
+}
+img.pa2 {
+  width:40%;
+  float:left;
+}
+
+
+ol.factsAtp{
+  width: 50%;
+  float: left;
+  margin-top: 5em;
+}
+
+img.pa1{
+  float:right;
+  width: 40%;
+  margin-top: 5em;
+
+
+}
+.hp1{
+  margin-top: 5em;
+  margin-bottom: 10em;
+}
+.hp2{
+  margin-bottom:5em;
+  margin-top:2em;
+}
+.hp3{
+  padding-bottom: :50px;
+  margin-top: 5em;
+}
+ol.factsClock{
+  width: 40%;
+  float: left;
+  margin-top:5em;
+
+}
+img.ATP{
+  float: right;
+  width: 40%;
+  margin-top: 5em;
+
+}
+
+
+img.pa3{
+  float:left;
+  width: 40%;
+  margin-top: 5em;
+
+}
+ul.swingFacts{
+  width: 50%;
+  float:right;
+  margin-top: 5em;
+}
+div.section3 {
+    display: block;
+}
+
+
+table{
+  border-collapse: separate;
+  border-spacing:solid 3px;
+
+
+}
+
+
+table, th, td {
+    border: 1px solid blue;
+     background-color: #f1f1c1;
+}
