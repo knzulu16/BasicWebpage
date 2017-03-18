@@ -1,5 +1,5 @@
 body{
-  background-color:powderBlue;
+  background-color:powderblue ;
   font-size: 24px;
   margin: 0;
   padding: 0;
@@ -14,14 +14,15 @@ height:300px;
 width:400px;
  border: 3px solid green;
  margin: auto 5px;
-border-radius: 100%;
+/*border-radius: 100%;*/
 
 }
 .tmImg{
-  width: 48%;
-  float:left;
-  margin-right: 50%;
-
+  height: 60%;
+  width: 70%;
+  float:right;
+  border-radius: 100%;
+  /*margin-right: 50%;*/
 }
 .section1{
   margin-bottom:20em;
@@ -30,6 +31,9 @@ border-radius: 100%;
 
 
 
+}
+h2{
+  background-color:grey;
 }
 .section2{
   margin-bottom:5em;
@@ -45,15 +49,18 @@ border-radius: 100%;
 
 h1.names{
   font-size:34px;
-  margin-left: 50%;
-  float:left;
-  width: 48%;
+  /*margin-left: 50%;
+  float:left;*/
+  /*width: 48%;*/
+
+  float: left;
+  width: 40%;
 
 }
 
 ul.indianInterests{
   float: right;
-  width: 50%;
+  width: 40%;
 }
 img.pa2 {
   width:40%;
@@ -68,9 +75,10 @@ ol.factsAtp{
 }
 
 img.pa1{
-  float:right;
+  float:left;
   width: 40%;
   margin-top: 5em;
+  margin-bottom:5em;
 
 
 }
@@ -87,7 +95,7 @@ img.pa1{
   margin-top: 5em;
 }
 ol.factsClock{
-  width: 40%;
+  width: 50%;
   float: left;
   margin-top:5em;
 
